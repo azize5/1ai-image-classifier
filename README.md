@@ -8,7 +8,7 @@ Bu proje, 10 farklı hayvan sınıfını tanıyabilen bir görüntü sınıfland
 - **`train.py`**: PyTorch ile veri ön işleme, augmentation, model eğitimi, early stopping ve metrik takibi işlevlerini yerine getirir.
 - **`app.py`**: Gradio ile geliştirilmiş kullanıcı dostu arayüz. Görsel yükleme, tahmin yapma ve sınıf çıktısı sunma işlemleri için kullanılır.
 - **`models/best_model.pth`**: Eğitilmiş modelin kaydedildiği dosya.
-- **`raw-img/`**: 10 farklı sınıftan oluşan görsel verilerin bulunduğu klasör (kullanıcı tarafından sağlanan veriler burada yer alır).
+- **`raw-img/`**: 10 farklı sınıftan oluşan görsel verilerin bulunduğu klasör 5 sınıf kullanıldı.
 
 ## Kullanılan Teknikler
 
