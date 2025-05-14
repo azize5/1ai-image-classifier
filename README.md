@@ -74,12 +74,18 @@ Modelin eğitiminde erken durdurma (early stopping) tekniği kullanılarak, mode
 
 ## Sonuçlar
 
-Modelin başarımını değerlendirirken kullanılan başlıca metrikler:
+Modelin başarımını değerlendirirken kullanılan başlıca metrikler ve sonuçları:
 
-- **Accuracy**: Modelin doğru tahmin ettiği örneklerin toplam örneklere oranı.
-- **Precision**: Modelin doğru pozitif tahminlerinin, toplam pozitif tahminlere oranı.
-- **Recall**: Modelin doğru pozitif tahminlerinin, toplam gerçek pozitif örneklere oranı.
+- **Accuracy**: 0.9489
+- **Precision**: 0.9489
+- **Recall**: 0.9489
+- **F1 socore: 0.9487
+
+  eklediğim görsellerde modelin zaten hangi sınıf olduğu görünmektedir.
 
 Bu metrikler, modelin genel başarısını ve her bir sınıf için ne kadar başarılı olduğunu gösterir.
 
-
+-----------------------------------------
+           ÖNEMLİ!!!!!!!!! 
+--------------------------------------------
+Hocam ben githup'a projeyi yüklemekte cok zorluk çektim ve yükleyemedim arkadaşlarımla da bu konu hakkında baya çabaladık ama bir şekilde olmadı yani yükleyebildiğim kadarını yüklemeye çalıştım zaten demo videosu ve görsellerden de anlaşılacağı üzere projem eksiksiz çalışmaktadır. best_model.pth dosyamı yükleyemedim boyutu çok büyük olduğu için(128 mb) yani hatanın bu olduğunu gösteriyordu. 
