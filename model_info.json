@@ -1,0 +1,11 @@
+{
+    "model_path": "./models/best_model_20250513-205352.pth",
+    "class_names": [
+        "cane",
+        "cavallo",
+        "elefante",
+        "farfalla",
+        "gatto"
+    ],
+    "img_size": 224
+}
