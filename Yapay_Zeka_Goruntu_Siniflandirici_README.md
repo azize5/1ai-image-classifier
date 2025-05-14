@@ -26,14 +26,6 @@ Projeyi çalıştırmadan önce aşağıdaki bağımlılıkları yüklemeniz ger
 pip install -r requirements.txt
 ```
 
-### `requirements.txt` dosyası
-
-- torch
-- torchvision
-- gradio
-- numpy
-- matplotlib
-- scikit-learn
 
 ## Eğitim
 
@@ -89,3 +81,5 @@ Modelin başarımını değerlendirirken kullanılan başlıca metrikler:
 - **Recall**: Modelin doğru pozitif tahminlerinin, toplam gerçek pozitif örneklere oranı.
 
 Bu metrikler, modelin genel başarısını ve her bir sınıf için ne kadar başarılı olduğunu gösterir.
+
+
