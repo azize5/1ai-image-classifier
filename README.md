@@ -85,7 +85,3 @@ Modelin başarımını değerlendirirken kullanılan başlıca metrikler ve sonu
 
 Bu metrikler, modelin genel başarısını ve her bir sınıf için ne kadar başarılı olduğunu gösterir.
 
------------------------------------------
-           ÖNEMLİ!!!!!!!!! 
---------------------------------------------
-Hocam ben githup'a projeyi yüklemekte cok zorluk çektim ve yükleyemedim arkadaşlarımla da bu konu hakkında baya çabaladık ama bir şekilde olmadı yani yükleyebildiğim kadarını yüklemeye çalıştım zaten demo videosu ve görsellerden de anlaşılacağı üzere projem eksiksiz çalışmaktadır. best_model.pth dosyamı yükleyemedim boyutu çok büyük olduğu için(128 mb) yani hatanın bu olduğunu gösteriyordu. 
